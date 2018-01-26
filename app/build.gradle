@@ -35,4 +35,5 @@ dependencies {
     compile 'com.karumi:dexter:4.2.0'
 
     compile 'me.dm7.barcodescanner:zbar:1.9.8'
+    implementation 'com.android.support:cardview-v7:27.0.2'
 }
